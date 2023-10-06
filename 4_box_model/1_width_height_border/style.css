@@ -8,8 +8,15 @@
     border: 2px solid #00ffff
 
     width: 200px;
-}
+
 
 .imagem_width {
     width: 400px
+}
+
+.caixa_height {
+    border: 1px dashed #00ffff;
+
+    height: 100px
+    width: 100px
 }
